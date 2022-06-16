@@ -18,3 +18,5 @@ python sketchScript.py
 ```
 
 ## Smaples 
+
+![Hanumanji](https://github.com/anshuisser/imagetosketch/blob/main/images/godHanuman.jpg)

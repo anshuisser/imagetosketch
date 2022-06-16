@@ -19,7 +19,20 @@ python sketchScript.py
 
 ## Smaples 
 
-![Hanumanji](https://github.com/anshuisser/imagetosketch/blob/main/images/godHanuman.jpg)
+<img src="https://github.com/anshuisser/imagetosketch/blob/main/images/godHanuman.jpg" width="480"/>
+<img src="https://github.com/anshuisser/imagetosketch/blob/main/sketches/godHanumanji/godHanumanji(final).png" width="480"/>
 
+<br/>
 
-<img src="https://github.com/anshuisser/imagetosketch/blob/main/images/godHanuman.jpg" width="128"/>
+<img src="https://github.com/anshuisser/imagetosketch/blob/main/images/Spiderman.jpg" width="480"/>
+<img src="https://github.com/anshuisser/imagetosketch/blob/main/sketches/spiderman/spiderman(final).jpg" width="480"/>
+
+<br/>
+
+<img src="https://github.com/anshuisser/imagetosketch/blob/main/images/hulk.jpg" width="480"/>
+<img src="https://github.com/anshuisser/imagetosketch/blob/main/sketches/hulk/hulk(final).png" width="480"/>
+
+<br/>
+
+<img src="https://github.com/anshuisser/imagetosketch/blob/main/images/chinesegirl.jpg" width="480"/>
+<img src="https://github.com/anshuisser/imagetosketch/blob/main/sketches/chinesegirl/chinesegirl(final).png" width="480"/>
